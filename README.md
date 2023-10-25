@@ -37,7 +37,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&Color=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![MSSQL](https://img.shields.io/badge/SQL%20Server-0078D7?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/24/Microsoft_SQL_Server_2019_logo.svg)&nbsp;
+![MSSQL](https://img.shields.io/badge/SQL%20Server-0078D7?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/2/24/Microsoft_SQL_Server_2019_logo.svg)&nbsp;
 #### Tools and Technologies
 
 
