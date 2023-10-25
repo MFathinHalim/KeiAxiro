@@ -15,7 +15,7 @@
 ## 🛠️ Skills
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,python,php,bash,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,php,bash,bootstrap)](https://skillicons.dev)
 </br>
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
