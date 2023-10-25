@@ -10,7 +10,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="70%">
+    <td width="50%">
      
 ## 🛠️ Skills
 
