@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KeiAxiro&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KeiAxiro&theme=algolia&show_icons=true&bg_color=transparent&title_color=pink&text_color=black" />
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiAxiro&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
