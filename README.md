@@ -15,10 +15,9 @@
 ## 🛠️ Skills
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,php,bash,bootstrap)](https://skillicons.dev)
-</br>
+
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=openjdk&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-276DC3?style=flat&logo=php&logoColor=blue&color=0B2C4A)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
@@ -26,7 +25,7 @@
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-0078D7?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/2/2f/Microsoft_.NET_Framework_logo.svg&logoColor=blue)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-0078D7?style=flat&logo=dotnet&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
 <!--      
