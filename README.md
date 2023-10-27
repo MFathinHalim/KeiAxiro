@@ -1,9 +1,13 @@
-# Yooo👋, Welcome to my Github Profile
+# Yooo👋, Selamat datang di Github Gue
 
-## ⚡🙋‍♂️ About Me
-
+## ⚡🙋‍♂️ Tentang Gue
+<p>
+ Halo Semuanya Gue Keidjaru Axiro buset keren bet nama gue ya, gue nyolong template ini dari orang Github
+</p>
 </br>
-
+<p>
+ 
+</p>
 </br>
 
 <table width="100%" >
