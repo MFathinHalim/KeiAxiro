@@ -6,7 +6,6 @@
 
 </br>
 
-
 <table width="100%" >
 
  <tr>
@@ -18,8 +17,9 @@
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=openjdk&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-0078D7?style=flat&logo=visualbasic&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-276DC3?style=flat&logo=php&logoColor=blue&color=0B2C4A)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 
@@ -53,9 +53,9 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KeiAxiro&theme=algolia&show_icons=true&bg_color=transparent&title_color=pink&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KeiAxiro&theme=algolia&border_color=f987ff&show_icons=true&bg_color=transparent&title_color=f769ff&text_color=83008a" />
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiAxiro&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiAxiro&langs_count=5&border_color=f987ff&layout=compact&title_color=f769ff&bg_color=transparent" />
 </p>
      
   </td>
