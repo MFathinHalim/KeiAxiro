@@ -53,9 +53,9 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KeiAxiro&theme=algolia&border_color=f987ff&show_icons=true&bg_color=transparent&title_color=f769ff&text_color=83008a" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KeiAxiro&theme=algolia&border_color=f987ff&show_icons=true&bg_color=1d001f&title_color=f769ff&text_color=981ba1" />
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiAxiro&langs_count=5&border_color=f987ff&layout=compact&title_color=f769ff&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiAxiro&langs_count=5&border_color=f987ff&layout=compact&title_color=f769ff&bg_color=1d001f&text_color=981ba1" />
 </p>
      
   </td>
