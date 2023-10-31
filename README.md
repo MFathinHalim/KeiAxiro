@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 # Yooo👋, Selamat datang di Github Gue
 
 ## ⚡🙋‍♂️ Tentang Gue
@@ -73,4 +72,5 @@
 
 
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
