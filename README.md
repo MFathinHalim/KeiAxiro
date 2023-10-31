@@ -13,7 +13,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="45%">
+    <td width="50%">
      
 ## 🛠️ Skills
 
@@ -68,13 +68,13 @@
  <tr>
   <td>
    <p align="center">
-    <img src="https://wakatime.com/share/@KeiAxiro/2e528072-f313-4891-b679-ef4edde5c634.svg"></img>
+    <img src="https://wakatime.com/share/@KeiAxiro/9e68f620-bf87-4da9-b229-8e325cd9b8d0.svg"></img>
    </p>
     
   </td>
   <td>
    <p align="center">
-    <img src="https://wakatime.com/share/@KeiAxiro/40be4872-d1c7-4229-8608-c8414d91b1e1.svg"></img>
+    <img src="https://wakatime.com/share/@KeiAxiro/c110bd04-765e-4c62-b4a6-7d518642ed8a.svg"></img>
    </p>
   </td>
  </tr>
