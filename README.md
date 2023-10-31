@@ -48,6 +48,8 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </td>
     <td>
   
@@ -72,5 +74,3 @@
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
