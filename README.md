@@ -65,6 +65,19 @@
      
   </td>
  </tr>
+ <tr>
+  <td>
+   <p align="center">
+    <img src="https://wakatime.com/share/@KeiAxiro/2e528072-f313-4891-b679-ef4edde5c634.svg"></img>
+   </p>
+    
+  </td>
+  <td>
+   <p align="center">
+    <img src="https://wakatime.com/share/@KeiAxiro/40be4872-d1c7-4229-8608-c8414d91b1e1.svg"></img>
+   </p>
+  </td>
+ </tr>
 </table>
 
 
