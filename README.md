@@ -49,6 +49,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 <!--START_SECTION:waka-->
+
+```txt
+VB.NET   2 hrs 22 mins   >>>>>>>>>>>>>>>>>========   68.80 %
+Other    1 hr 4 mins     >>>>>>>>=================   31.20 %
+```
+
 <!--END_SECTION:waka-->
 </td>
     <td>
