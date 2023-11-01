@@ -48,14 +48,7 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<!--START_SECTION:waka-->
 
-```txt
-VB.NET   2 hrs 22 mins   >>>>>>>>>>>>>>>>>========   68.80 %
-Other    1 hr 4 mins     >>>>>>>>=================   31.20 %
-```
-
-<!--END_SECTION:waka-->
 </td>
     <td>
   
@@ -74,9 +67,15 @@ Other    1 hr 4 mins     >>>>>>>>=================   31.20 %
  <tr>
   <td>
    <p align="center">
-    <img src="https://wakatime.com/share/@KeiAxiro/9e68f620-bf87-4da9-b229-8e325cd9b8d0.svg"></img>
+    <!--START_SECTION:waka-->
+
+```txt
+VB.NET   1000 hrs 22 mins   >>>>>>>>>>>>>>>>>========   68.80 %
+Other    1 hr 4 mins     >>>>>>>>=================   31.20 %
+```
+
+<!--END_SECTION:waka-->
    </p>
-    
   </td>
   <td>
    <p align="center">
