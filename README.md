@@ -65,7 +65,7 @@
   </td>
  </tr>
  <tr>
-  <td>
+  <td width="50%">
    <p align="center">
     <!--START_SECTION:waka-->
 
