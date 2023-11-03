@@ -60,12 +60,15 @@
  </br>
   <img width="100%" src="https://readme-phi-eight.vercel.app/api/top-langs/?username=KeiAxiro&langs_count=5&border_color=f987ff&layout=compact&title_color=f769ff&bg_color=1d001f&text_color=d22cde" />
 </p>
+<p align="center">
+    <img src="https://wakatime.com/share/@KeiAxiro/c110bd04-765e-4c62-b4a6-7d518642ed8a.svg"></img>
+   </p>
 
      
   </td>
  </tr>
  <tr>
-  <td width="50%">
+  <td width="50%" colspan="2">
   
 <!--START_SECTION:waka-->
 
@@ -80,9 +83,7 @@ Other    2 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   </td>
   <td>
-   <p align="center">
-    <img src="https://wakatime.com/share/@KeiAxiro/c110bd04-765e-4c62-b4a6-7d518642ed8a.svg"></img>
-   </p>
+   
   </td>
  </tr>
 </table>
