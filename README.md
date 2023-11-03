@@ -66,7 +66,7 @@
  </tr>
  <tr>
   <td width="50%">
-   <p align="center">
+  
     <!--START_SECTION:waka-->
 
 ```txt
@@ -77,7 +77,7 @@ Other    2 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-   </p>
+  
   </td>
   <td>
    <p align="center">
