@@ -73,10 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 79 hrs 36 mins
+Total Time: 83 hrs 20 mins
 
-VB.NET                 42 hrs 53 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.49 %
-Other                  23 hrs 47 mins  ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.01 %
+VB.NET                 42 hrs 53 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.04 %
+Other                  23 hrs 47 mins  ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.20 %
 ```
 
 <!--END_SECTION:waka-->
