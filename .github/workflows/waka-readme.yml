@@ -26,3 +26,4 @@ jobs:
           TARGET_PATH: README.md # optional
           STOP_AT_OTHER: true # optional
           SECTION_NAME: waka # optional
+          LANG_COUNT: 10
