@@ -24,6 +24,5 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
-          STOP_AT_OTHER: true # optional
           SECTION_NAME: waka # optional
           LANG_COUNT: 10
